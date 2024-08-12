@@ -5,7 +5,8 @@
 ## 1. セットアップ
 
 ### 1-1. 開発環境
-- Arduino IDE(Version 2.3)
+- Arduino IDE<br>
+※ 本サンプルは Version 2.3.2 で作成しています。
 
 ### 1-2. マイコン/カメラ
 サンプルプログラムは次のハードウェア上で動作します。
@@ -22,7 +23,7 @@ Arduino IDEで次の設定をしてください。
       <img width="753" src="https://github.com/user-attachments/assets/809d42c4-54f6-4075-82f8-2088997ad5f4">
 1. マイコンボードの設定
     1. マイコン選択ボックスの `Select Board` から `M5UnitCAMS3` を選択する。
-　　　<br><table><tr><td><img width="367" src="https://github.com/user-attachments/assets/0f2ad9e6-bcd1-4a79-a391-11065d9d2759"></td><td><img width="663" src="https://github.com/user-attachments/assets/88a90cb8-3843-47dc-b358-2bb427612e01"></td></tr></table>
+　　　<br><table><tr><td><img width="367" src="https://github.com/user-attachments/assets/0f2ad9e6-bcd1-4a79-a391-11065d9d2759"></td><td><img width="663" src="https://github.com/user-attachments/assets/33476d60-bd57-4ef8-8680-698ebb5614e2"></td></tr></table>
 1. PSRAMの設定
     1. Arduino IDEメニュー > Tools を選択し、PSRAMの設定を `OPI PSRAM` に変更する。
        <img width="548" src="https://github.com/user-attachments/assets/a42f9aaf-585c-4e21-9c30-8f371ae268d7">
