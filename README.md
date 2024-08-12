@@ -26,7 +26,12 @@ Arduino IDEで次の設定をしてください。
 　　　<br><table><tr><td><img width="367" src="https://github.com/user-attachments/assets/0f2ad9e6-bcd1-4a79-a391-11065d9d2759"></td><td><img width="663" src="https://github.com/user-attachments/assets/33476d60-bd57-4ef8-8680-698ebb5614e2"></td></tr></table>
 1. PSRAMの設定
     1. Arduino IDEメニュー > Tools を選択し、PSRAMの設定を `OPI PSRAM` に変更する。
-       <img width="548" src="https://github.com/user-attachments/assets/a42f9aaf-585c-4e21-9c30-8f371ae268d7">
+   　<img width="548" src="https://github.com/user-attachments/assets/a42f9aaf-585c-4e21-9c30-8f371ae268d7">
+1. base64ライブラリインストール
+   1. ライブラリから「base64 by Densaugeo」を検索しインストールする。
+      
+   　<img width="424"  src="https://github.com/user-attachments/assets/baf3d7b9-5d65-4486-8044-da5ee26bbd2a">
+
 
 ### 1-4. WiFi-SSID、WiFiパスワード、計測器ID、送信パスコードを設定
 サンプルコードの次の変数の値を、ハウス環境モニタアプリの計測器画面に表示される値に変更します。
